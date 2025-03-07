@@ -1,0 +1,2 @@
+# yzxllbot.github-io
+bot
