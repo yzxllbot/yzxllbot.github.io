@@ -1,3 +1,4 @@
+C:
 cd C:\Users\Administrator\Desktop\runpy\output
 git remote set-url origin git@github.com:yzxllbot/yzxllbot.github.io.git
 git add .
